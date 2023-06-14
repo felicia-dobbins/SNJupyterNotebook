@@ -1,3 +1,3 @@
 # SNJupyterNotebook
-# First JupyterLab Notebook publication 
-# Peer graded assignment
+### First JupyterLab Notebook publication 
+#### Peer graded assignment
